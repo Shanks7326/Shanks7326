@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shashank Chauhan
 - 👀 I’m interested in C
-- 🌱 I’m currently learning Java, Python, JavaScript 
+- 🌱 Currently learning Java, Python, JavaScript
+- 🖥️ Currently working on Think Beyond Exams' web development challenge
 - 💞️ I’m looking to collaborate on C projects
 - 📫 shashankchauhan7326@gmail.com
 
